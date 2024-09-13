@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual Environment
+.week3
+
+# Data
+data/
+
 # Distribution / packaging
 .Python
 build/
