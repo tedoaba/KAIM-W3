@@ -17,6 +17,7 @@ from hypothesis_testing import (
 )
 
 def main():
+    
     # Data Collection
     file_path = '../data/cleaned_insurance_data.csv'
     df = load_data(file_path)
@@ -44,7 +45,7 @@ def main():
     plot_postalcode_premium(df)
     plot_premium_vs_claims(df)
 
-        # Test risk differences across provinces
+    # Test risk differences across provinces
     province_results = test_province_risk_difference(df)
     print("Risk Differences Across Provinces:")
     for result in province_results:
