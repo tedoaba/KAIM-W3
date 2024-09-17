@@ -2,3 +2,5 @@ numpy
 pandas
 matplotlib
 seaborn
+pytest
+scipy
