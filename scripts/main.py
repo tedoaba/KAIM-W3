@@ -8,13 +8,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'
 from data_loader import load_data, display_basic_info, print_unique_values, handle_missing_values, get_numerical_columns
 from eda import check_missing_values, data_compression
 from visualization import plot_postalcode_premium, plot_missing_values, plot_histograms, plot_categorical_bars, plot_correlation_matrix, plot_categorical_bars, plot_premium_vs_claims
-from hypothesis_testing import (
-    test_province_risk_difference, 
-    test_zip_code_risk_difference, 
-    calculate_margin, 
-    test_margin_difference_by_zip, 
-    test_gender_risk_difference
-)
+from hypothesis_testing import test_province_risk_difference, test_zip_code_risk_difference, calculate_margin, test_margin_difference_by_zip, test_gender_risk_difference
+
 
 def main():
     
