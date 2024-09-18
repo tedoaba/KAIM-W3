@@ -1,0 +1,6 @@
+[core]
+    remote = localremote
+['remote "gdrive_remote"']
+    url = gdrive://1XYlzyTEuJzcNNwskOcvGiGSHSlyuayTV
+['remote "localremote"']
+    url = C:/Users/tedoa/KAIM/KAIM-W3
