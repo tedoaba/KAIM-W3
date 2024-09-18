@@ -54,7 +54,7 @@ This repository is divided into four key branches, each representing a distinct 
 │   └── test_visualization.py # Unit tests for visualization.py
 └── scripts/
     ├── __init__.py
-    └── run_eda.py            # Script to run EDA from command line
+    └── main.py            # Script to run EDA from command line
 
 ```
 
