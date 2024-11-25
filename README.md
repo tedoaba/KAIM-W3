@@ -1,7 +1,6 @@
+# Risk and Predictive Analytics in the Area of Car Insurance Planning and Marketing
 
-# KAIM Weak 3 Challenges
-
-## AlphaCare Insurance Solutions (ACIS) Marketing Analytics Repository
+## KAIM Weak 3 Challenges
 
 Welcome to the AlphaCare Insurance Solutions (ACIS) Marketing Analytics Repository! This repository contains the code, data, models, and analysis related to our project aimed at optimizing marketing strategies and identifying low-risk targets for potential premium reductions in the South African car insurance market.
 
